@@ -1,0 +1,54 @@
+.container{
+	/*margin: 100px auto;*/
+	margin-top: 100px;
+	padding: 0 100px;
+}
+.img-center{
+	display: block;
+	margin: 0 auto;
+}
+body{
+	font-family: Roboto
+}
+h1{
+	margin: 0;
+	font-size: 4.5em;
+	color: white;
+}
+p{
+	font-size: 12pt;
+	line-height: 2em;
+	color: black;
+}
+b{
+	font-size: 1.2em;
+	color:white;
+}
+button{
+	box-shadow: 2px 2px;
+}
+.bigger-text{
+	font-size: 1.3em;
+	line-height: 2em;
+}
+#footnote{
+	margin: 30px auto;
+	color: grey;
+	text-align: center;
+}
+
+#text-red{
+	color:red;
+}
+
+#text-center{
+	text-align: center;
+}
+
+#text-right{
+	text-align: right;
+}
+
+#text-left{
+	text-align: left;
+}
